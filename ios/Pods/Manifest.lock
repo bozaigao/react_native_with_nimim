@@ -1,0 +1,76 @@
+PODS:
+  - lottie-ios (2.5.0)
+  - lottie-react-native (2.5.11):
+    - lottie-ios
+    - React
+  - React (0.51.0):
+    - React/Core (= 0.51.0)
+  - react-native-fetch-blob (0.10.6):
+    - React/Core
+  - react-native-image-picker (0.27.1):
+    - React
+  - React/BatchedBridge (0.51.0):
+    - React/Core
+    - React/cxxreact_legacy
+  - React/Core (0.51.0):
+    - yoga (= 0.51.0.React)
+  - React/cxxreact_legacy (0.51.0):
+    - React/jschelpers_legacy
+  - React/jschelpers_legacy (0.51.0)
+  - RNAudio (4.2.2):
+    - React
+  - RNSound (0.10.9):
+    - React/Core
+    - RNSound/Core (= 0.10.9)
+  - RNSound/Core (0.10.9):
+    - React/Core
+  - RNVectorIcons (4.6.0):
+    - React
+  - yoga (0.51.0.React)
+
+DEPENDENCIES:
+  - lottie-ios (from `../node_modules/lottie-ios`)
+  - lottie-react-native (from `../node_modules/lottie-react-native`)
+  - react-native-fetch-blob (from `../node_modules/react-native-fetch-blob`)
+  - react-native-image-picker (from `../node_modules/react-native-image-picker`)
+  - React/BatchedBridge (from `../node_modules/react-native`)
+  - React/Core (from `../node_modules/react-native`)
+  - RNAudio (from `../node_modules/react-native-audio`)
+  - RNSound (from `../node_modules/react-native-sound`)
+  - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
+  - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
+
+EXTERNAL SOURCES:
+  lottie-ios:
+    :path: "../node_modules/lottie-ios"
+  lottie-react-native:
+    :path: "../node_modules/lottie-react-native"
+  React:
+    :path: "../node_modules/react-native"
+  react-native-fetch-blob:
+    :path: "../node_modules/react-native-fetch-blob"
+  react-native-image-picker:
+    :path: "../node_modules/react-native-image-picker"
+  RNAudio:
+    :path: "../node_modules/react-native-audio"
+  RNSound:
+    :path: "../node_modules/react-native-sound"
+  RNVectorIcons:
+    :path: "../node_modules/react-native-vector-icons"
+  yoga:
+    :path: "../node_modules/react-native/ReactCommon/yoga"
+
+SPEC CHECKSUMS:
+  lottie-ios: 9f24be3ecb13412223b6ac70d97437742b0e3de1
+  lottie-react-native: 31ceb9d2d1423fa99c64d19eb93c0364256a6a3e
+  React: 541ba768b9855e10cdc76f55427a5cd0653ca806
+  react-native-fetch-blob: 63394b1d7b0781547b3e4463b3195790177b1222
+  react-native-image-picker: f42de90075c5b1af53417af927631d909a1a746e
+  RNAudio: 190cf085b4dddd366f4f3f7be1794c78d7d434a3
+  RNSound: b360b3862d3118ed1c74bb9825696b5957686ac4
+  RNVectorIcons: c0dbfbf6068fefa240c37b0f71bd03b45dddac44
+  yoga: 17521bbb0dd54a47c0b3ac43253e78cdac7488e0
+
+PODFILE CHECKSUM: 5b46141814f1e280e4c88cfb3bbeb7a462a0eb3e
+
+COCOAPODS: 1.5.3

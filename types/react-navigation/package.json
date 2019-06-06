@@ -1,0 +1,32 @@
+{
+  "_from": "@types/react-navigation",
+  "_id": "@types/react-navigation",
+  "_inBundle": false,
+  "_location": "/@types/react-navigation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/react-navigation",
+    "name": "@types/react-navigation",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "@types/react-navigation",
+  "_where": "/Users/apple/Desktop/zhizhuo",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "TypeScript definitions for react-navigation",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-navigation",
+  "scripts": {},
+  "typeScriptVersion": "1.0",
+  "version": "0.0.1"
+}

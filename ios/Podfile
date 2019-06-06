@@ -1,0 +1,23 @@
+# Uncomment the next line to define a my_global platform for your project
+platform :ios, '9.0'
+project 'react_native_with_nimim.xcodeproj'
+
+target 'react_native_with_nimim' do
+    # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+    # use_frameworks!
+    # Pods for react_native_with_nimim
+    pod 'React', :path => '../node_modules/react-native',  :subspecs => [
+        'Core',
+        'BatchedBridge'
+        # 在这里继续添加你所需要的模块
+        ]
+     # 如果你的RN版本 >= 0.42.0，请加入下面这行
+     pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+     pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+     pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+     pod 'lottie-ios', :path => '../node_modules/lottie-ios'
+     pod 'lottie-react-native', :path => '../node_modules/lottie-react-native'
+     pod 'RNAudio', :path => '../node_modules/react-native-audio'
+     pod 'RNSound', :path => '../node_modules/react-native-sound'
+     pod 'react-native-fetch-blob', :path => '../node_modules/react-native-fetch-blob'
+end

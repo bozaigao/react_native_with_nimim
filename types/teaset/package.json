@@ -1,0 +1,32 @@
+{
+  "_from": "@types/teaset",
+  "_id": "@types/teaset",
+  "_inBundle": false,
+  "_location": "/@types/teaset",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/teaset",
+    "name": "@types/teaset",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "@types/teaset",
+  "_where": "/Users/apple/Desktop/zhizhuo",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "TypeScript definitions for teaset",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/teaset",
+  "scripts": {},
+  "typeScriptVersion": "1.0",
+  "version": "0.0.1"
+}

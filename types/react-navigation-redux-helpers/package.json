@@ -1,0 +1,32 @@
+{
+  "_from": "@types/react-navigation-redux-helpers",
+  "_id": "@types/react-navigation-redux-helpers",
+  "_inBundle": false,
+  "_location": "/@types/react-navigation-redux-helpers",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/react-navigation-redux-helpers",
+    "name": "@types/react-navigation-redux-helpers",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "@types/react-navigation-redux-helpers",
+  "_where": "/Users/apple/Desktop/zhizhuo",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "TypeScript definitions for react-navigation-redux-helpers",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-navigation-redux-helpers",
+  "scripts": {},
+  "typeScriptVersion": "1.0",
+  "version": "0.0.1"
+}

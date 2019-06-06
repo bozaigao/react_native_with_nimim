@@ -1,0 +1,116 @@
+{
+  "_from": "@types/react-native",
+  "_id": "@types/react-native@0.57.32",
+  "_inBundle": false,
+  "_integrity": "sha512-Fx3el9h+BlS86aB9tTc8dgybd/kb0g0UeRGfuTtFaDrPI95IbIymWPnQ+aALh5FOovQ47xq1TTB7J6Nf86lHRw==",
+  "_location": "/@types/react-native",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/react-native",
+    "name": "@types/react-native",
+    "escapedName": "@types%2freact-native",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/react-native/-/react-native-0.57.32.tgz",
+  "_shasum": "5c4d43fe50f4bae81390e835209d501270b9704a",
+  "_spec": "@types/react-native",
+  "_where": "/Users/heyanbei/Desktop/未命名文件夹/react_native_with_nimim",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Eloy Durán",
+      "url": "https://github.com/alloy"
+    },
+    {
+      "name": "HuHuanming",
+      "url": "https://github.com/huhuanming"
+    },
+    {
+      "name": "Kyle Roach",
+      "url": "https://github.com/iRoachie"
+    },
+    {
+      "name": "Simon Knott",
+      "url": "https://github.com/skn0tt"
+    },
+    {
+      "name": "Tim Wang",
+      "url": "https://github.com/timwangdev"
+    },
+    {
+      "name": "Kamal Mahyuddin",
+      "url": "https://github.com/kamal"
+    },
+    {
+      "name": "Naoufal El Yousfi",
+      "url": "https://github.com/nelyousfi"
+    },
+    {
+      "name": "Alex Dunne",
+      "url": "https://github.com/alexdunne"
+    },
+    {
+      "name": "Manuel Alabor",
+      "url": "https://github.com/swissmanu"
+    },
+    {
+      "name": "Michele Bombardi",
+      "url": "https://github.com/bm-software"
+    },
+    {
+      "name": "Tanguy Krotoff",
+      "url": "https://github.com/tkrotoff"
+    },
+    {
+      "name": "Alexander T.",
+      "url": "https://github.com/a-tarasyuk"
+    },
+    {
+      "name": "Martin van Dam",
+      "url": "https://github.com/mvdam"
+    },
+    {
+      "name": "Kacper Wiszczuk",
+      "url": "https://github.com/esemesek"
+    },
+    {
+      "name": "Ryan Nickel",
+      "url": "https://github.com/mrnickel"
+    },
+    {
+      "name": "Souvik Ghosh",
+      "url": "https://github.com/souvik-ghosh"
+    }
+  ],
+  "dependencies": {
+    "@types/prop-types": "*",
+    "@types/react": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for react-native",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index",
+  "typesPublisherContentHash": "3af1f418935b55be629b54a9e4399b77c99c683bc79136c5f72e196ff5d8d5d2",
+  "version": "0.57.32"
+}

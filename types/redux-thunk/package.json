@@ -1,0 +1,32 @@
+{
+  "_from": "@types/redux-thunk",
+  "_id": "@types/redux-thunk",
+  "_inBundle": false,
+  "_location": "/@types/redux-thunk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/redux-thunk",
+    "name": "@types/redux-thunk",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "@types/redux-thunk",
+  "_where": "/Users/apple/Desktop/zhizhuo",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "TypeScript definitions for redux-thunk",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/redux-thunk",
+  "scripts": {},
+  "typeScriptVersion": "1.0",
+  "version": "0.0.1"
+}

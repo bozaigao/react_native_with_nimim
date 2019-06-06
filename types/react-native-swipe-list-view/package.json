@@ -1,0 +1,32 @@
+{
+  "_from": "@types/react-native-swipe-list-view",
+  "_id": "@types/react-native-swipe-list-view",
+  "_inBundle": false,
+  "_location": "/@types/react-native-swipe-list-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/react-native-swipe-list-view",
+    "name": "@types/react-native-swipe-list-view",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "@types/react-native-swipe-list-view",
+  "_where": "/Users/apple/Desktop/zhizhuo",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "TypeScript definitions for react-native-swipe-list-view",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-native-swipe-list-view",
+  "scripts": {},
+  "typeScriptVersion": "1.0",
+  "version": "0.0.1"
+}

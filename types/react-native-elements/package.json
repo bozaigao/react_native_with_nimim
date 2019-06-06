@@ -1,0 +1,32 @@
+{
+  "_from": "@types/react-native-elements",
+  "_id": "@types/react-native-elements",
+  "_inBundle": false,
+  "_location": "/@types/react-native-elements",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/react-native-elements",
+    "name": "@types/react-native-elements",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "@types/react-native-elements",
+  "_where": "/Users/apple/Desktop/zhizhuo",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "TypeScript definitions for react-native-elements",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-native-elements",
+  "scripts": {},
+  "typeScriptVersion": "1.0",
+  "version": "0.0.1"
+}

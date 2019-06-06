@@ -1,0 +1,95 @@
+{
+  "_from": "@types/react-redux",
+  "_id": "@types/react-redux@6.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-wc/OCgvYiYPHXb85NXb43FkYFYY=",
+  "_location": "/@types/react-redux",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/react-redux",
+    "name": "@types/react-redux",
+    "escapedName": "@types%2freact-redux",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.4.tgz",
+  "_shasum": "c1cfce0a0bd88983c75dbf393576f8dc59181586",
+  "_spec": "@types/react-redux",
+  "_where": "/Users/apple/Desktop/demo",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Qubo",
+      "url": "https://github.com/tkqubo"
+    },
+    {
+      "name": "Thomas Hasner",
+      "url": "https://github.com/thasner"
+    },
+    {
+      "name": "Kenzie Togami",
+      "url": "https://github.com/kenzierocks"
+    },
+    {
+      "name": "Curits Layne",
+      "url": "https://github.com/clayne11"
+    },
+    {
+      "name": "Frank Tan",
+      "url": "https://github.com/tansongyang"
+    },
+    {
+      "name": "Nicholas Boll",
+      "url": "https://github.com/nicholasboll"
+    },
+    {
+      "name": "Dibyo Majumdar",
+      "url": "https://github.com/mdibyo"
+    },
+    {
+      "name": "Prashant Deva",
+      "url": "https://github.com/pdeva"
+    },
+    {
+      "name": "Thomas Charlat",
+      "url": "https://github.com/kallikrein"
+    },
+    {
+      "name": "Valentin Descamps",
+      "url": "https://github.com/val1984"
+    },
+    {
+      "name": "Johann Rakotoharisoa",
+      "url": "https://github.com/jrakotoharisoa"
+    }
+  ],
+  "dependencies": {
+    "@types/react": "*",
+    "redux": "^4.0.0"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for react-redux",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-redux",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "typesPublisherContentHash": "a98d0e39a95cb4e27f1d77df57a869f305599c7d8e6478147b2401935906d45c",
+  "version": "6.0.4"
+}

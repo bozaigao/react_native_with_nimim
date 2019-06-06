@@ -1,0 +1,32 @@
+{
+  "_from": "@types/lottie-react-native",
+  "_id": "@types/lottie-react-native",
+  "_inBundle": false,
+  "_location": "/@types/lottie-react-native",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/lottie-react-native",
+    "name": "@types/lottie-react-native",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "@types/lottie-react-native",
+  "_where": "/Users/apple/Desktop/zhizhuo",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "TypeScript definitions for lottie-react-native",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/lottie-react-native",
+  "scripts": {},
+  "typeScriptVersion": "1.0",
+  "version": "0.0.1"
+}
