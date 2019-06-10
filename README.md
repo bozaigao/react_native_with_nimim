@@ -3,3 +3,4 @@
 
 #用法
 在登录成功后执行loginNIM然后以this.props.navigation.navigate('Chat', {sessionId});的方式即可开启聊天窗口进行聊天.
+![image](./shot.png)
