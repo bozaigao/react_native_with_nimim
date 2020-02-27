@@ -4,11 +4,11 @@ const appConfig = {
   // 用户的appkey
   // 用于在web demo中注册账号异步请求demo 服务器中使用
   test: {
-    appkey: '2c7e004bef25274082944a2f0ba2d845',
+    appkey: '',
     postUrl: 'https://apptest.netease.im',
   },
   online: {
-    appkey: '2c7e004bef25274082944a2f0ba2d845',
+    appkey: '',
     postUrl: 'https://app.netease.im',
   },
 };
